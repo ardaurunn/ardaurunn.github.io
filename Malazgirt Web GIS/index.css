@@ -1,0 +1,26 @@
+#map {
+  height: 80%;
+  width: 80%;
+  position: relative;
+  margin-top: 30px;
+  margin-left: 170px;
+  border-radius: 20px;
+  box-shadow: 0 5px 20px rgba(0, 0, 0, 0.5);
+}
+
+h1 {
+  font-size: 30px;
+  color: rgba(0, 0, 0, 0.8);
+  text-align: center;
+  text-shadow: 0 0 10px rgba(255, 254, 254, 0.9);
+  font-family: Arial black;
+  margin-top: 0px;
+}
+
+html,
+body {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+  background-color: rgba(136, 104, 60, 0.4);
+}
