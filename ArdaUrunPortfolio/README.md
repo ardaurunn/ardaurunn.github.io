@@ -1,1 +1,0 @@
-# https://ardaurunn.github.io
